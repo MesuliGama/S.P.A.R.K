@@ -1,0 +1,5 @@
+{
+  "name": "S.P.A.R.K – Smart Personal AI Resume Kit",
+  "description": "An intelligent resume generation system that creates customized, ATS-friendly resumes based on user inputs and a target job description, powered by Gemini.",
+  "requestFramePermissions": []
+}
